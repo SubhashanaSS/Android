@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Transactions</string>
+    <string name="trans_from">Transfer From</string>
+    <string name="Trans_Acc">Account</string>
+    <string name="Trans_To">Transfer To</string>
+    <string name="Trans_Amount">Amount</string>
+    <string name="Benef_AccNo">Account No</string>
+    <string name="IdBtnInsert">SUBMIT</string>
+    <string name="trlist_trAccNo">Transferee AccNo</string>
+    <string name="trlist_amount">Amount</string>
+    <string name="trlist_benefAcc">Beneficiary AccNo</string>
+    <string name="new_Tr">New Transaction</string>
+    <string name="prev_Tr">View Previous Transactions</string>
+    <string name="update_Tr_acc">Transaction AccNo</string>
+    <string name="Update_Be_acc">Beneficiary AccNo</string>
+</resources>

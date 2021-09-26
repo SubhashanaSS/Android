@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948137270134",
+    "project_id": "crud-app-6ca15",
+    "storage_bucket": "crud-app-6ca15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948137270134:android:d354814887ba3eeedbb857",
+        "android_client_info": {
+          "package_name": "com.citibank.transactions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948137270134-2h8vp1hpei0ts1oqirsu03fq19r2l27l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf55hDoxdzKbKx8NXYPJzPN1p-IxkFsds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948137270134-2h8vp1hpei0ts1oqirsu03fq19r2l27l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
